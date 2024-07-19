@@ -1,17 +1,3 @@
-/*  Student information for assignment:
- *
- *  On my honor, Dominic Paruolo, this programming assignment is my own work
- *  and I have not provided this code to any other student.
- *
- *  Number of slip days used: 2
- *
- *  Student 1 (Student whose Canvas account is being used)
- *  UTEID: dmp3588
- *  email address: dominicparuolo78@gmail.com
- *  Grader name: Nidhi
- *
- */
-
 import java.io.IOException;
 
 public class HuffmanDecompressor implements IHuffConstants{
